@@ -18,4 +18,7 @@ Peut-etre simplement a me mettre au service de la communaute, a faire le don, le
 Je ne comprend pas vraiment cette langue.
 Mais qualle idée, de l'anglais cela passe encore, mais du latin, c'est a en perdre la tête.
 Je suis quand même plus a l'aise avec le francais ou encore un peu l'anglais.
+
+Parfois je m'entraine à parler le languages des signes mais cela est compliqué
+pour pouvoir coder.
 >>>>>>> 13fcb3e85b6dc8f1e41e655cc9d176c8ad419884
