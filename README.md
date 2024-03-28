@@ -5,6 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+<<<<<<< HEAD
 Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation.\
 Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres.\
 Des gens qui m'ont tendu la main, peut-être à un moment ou je ne pouvais pas, ou j'étais seul chez moi.\
@@ -13,3 +14,8 @@ Parce que quand on a le gout de la chose, quand on le gout de la chose bien fait
 Alors ca n'est pas mon cas, comme je disais la, puisque moi au contraire, j'ai pu; et je dis merci a la vie, je lui dis merci, je chante la vie, je danse la vie ... je ne suis qu'amour !\
 Et finalement, quand des gens me disent "Mais comment fais-tu pour avoir cette humanité? ", je leur r�eponds tres simplement que c'est le gout de l'amour, ce gout donc qui m'a pousse aujourd'hui a entreprendre une construction mecanique ... mais demain qui sait ?\
 Peut-etre simplement a me mettre au service de la communaute, a faire le don, le don de soi.
+=======
+Je ne comprend pas vraiment cette langue.
+Mais qualle idée, de l'anglais cela passe encore, mais du latin, c'est a en perdre la tête.
+Je suis quand même plus a l'aise avec le francais ou encore un peu l'anglais.
+>>>>>>> 13fcb3e85b6dc8f1e41e655cc9d176c8ad419884
