@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<<<<<<< HEAD
+
 Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation.\
 Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres.\
 Des gens qui m'ont tendu la main, peut-être à un moment ou je ne pouvais pas, ou j'étais seul chez moi.\
